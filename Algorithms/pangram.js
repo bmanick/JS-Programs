@@ -12,5 +12,5 @@ function isPangram(str){
 	return true;	
 }
 
-console.log(isPangram('We promptly judged antique ivory buckles for the next prize'));
-console.log(isPangram('We promptly judged antique ivory buckles for the prize'));
+console.log(isPangram('We promptly judged antique ivory buckles for the next prize')); //Returns true
+console.log(isPangram('We promptly judged antique ivory buckles for the prize')); //Returns flase

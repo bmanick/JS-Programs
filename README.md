@@ -1,2 +1,2 @@
 # JS-Programs
-This repo contains js programs in DS and algorithms
+This repo contains solutions for Hackerrank problems in javascript. 
